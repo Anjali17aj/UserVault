@@ -1,0 +1,45 @@
+*{
+    background-color: aliceblue;
+    color: rgb(1, 59, 33);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+/* Users ejs template */
+h2 {
+    margin-top: 2%;
+    color: rgb(2, 54, 10);
+    text-decoration: underline;
+}
+
+table, th, td {
+        border: 1px solid rgb(20, 17, 17);
+        text-align: center;
+        margin-left: 15%;
+      }
+
+      button {
+        background-color: blanchedalmond;
+        padding: 10px;
+        margin: 3px;
+      }
+
+     th {
+        color: rgb(26, 47, 7);
+     }
+
+
+     /* Edit - ejs template */
+     input {
+        padding: 10px;
+     }
+     textarea {
+        margin-top: 5%;
+        color: rgb(26, 47, 7);
+        font-size: 1em;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: rgb(212, 244, 246);
+        padding: 15px;
+     }
