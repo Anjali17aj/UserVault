@@ -56,10 +56,10 @@ Run the project / Start the server locally
 ```
 
 
-## Demo
+## View
 
 
-link to demo :
+Screenshot :
 https://drive.google.com/file/d/1EwWNJNLejqWjlXglNYLoRQ30c2kCXEps/view?usp=sharing
 
 ## Outcome
